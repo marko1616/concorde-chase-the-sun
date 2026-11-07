@@ -46,4 +46,12 @@
 - `raw/`：公开领域地理矢量；可选栅格输入的下载说明及指纹。
 - `docs/`：封面、使用／编辑文档、来源与验证记录。
 
-源码公开不等于所有素材适用同一许可证。尤其 `source/motion.js` 沿用 **PolyForm Noncommercial 1.0.0**；不要把整仓库标为 MIT。原作者尚未为项目原创部分指定统一许可，详见 [LICENSE.md](LICENSE.md)。
+## 可复用 skill
+
+[direct-music-led-technical-animation](.agents/skills/direct-music-led-technical-animation/SKILL.md) 总结本项目的音乐驱动技术动画流程：区分 kick／clap、按乐句组织动作、局部插叙、机体连续性与仪表层级、连续帧验收、最终成片和封面检查、公开源码重建。
+
+支持仓库级 `.agents/skills/` 的 agent 可直接发现该 skill；其他工具可读取该 `SKILL.md` 或复制整个技能目录到其支持的技能路径。它是可迁移的制作流程，不含固定的 Concorde 时间点，也不需要 OpenClaw 私有工具。具体影片结构仍见 `docs/EDITING.md`。
+
+## 许可证
+
+项目原创代码、文档及上述 skill 使用 [MIT License](LICENSE)。第三方素材保留原有条款，尤其 `source/motion.js` 仍是 **PolyForm Noncommercial 1.0.0**；不能把包含它的整个项目描述成“全部 MIT／可自由商用”。详细范围见 [LICENSE.md](LICENSE.md) 与 [素材清单](docs/ASSETS.md)。
