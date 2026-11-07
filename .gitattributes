@@ -1,0 +1,15 @@
+* text=auto
+*.py text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.svg text eol=lf
+*.png binary
+*.webp binary
+*.woff binary
+# Preserve upstream bytes and source checksums, including upstream whitespace.
+raw/*.geojson -whitespace
+source/assets/FONT-LICENSES.txt -whitespace
+source/assets/Noto-OFL.txt -whitespace
+source/motion.js -whitespace

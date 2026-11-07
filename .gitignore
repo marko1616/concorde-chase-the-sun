@@ -1,0 +1,21 @@
+# Generated players may contain locally supplied music.
+/build/
+/renders/
+/preview/
+/.venv/
+__pycache__/
+*.py[cod]
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.ogg
+*.mp4
+*.mov
+*.webm
+*.render.json
+/production/geography-build.json
+/raw/*.zip
+/raw/NE1_50M_SR/
+.DS_Store
+Thumbs.db

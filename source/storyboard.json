@@ -1,0 +1,365 @@
+{
+  "version": 7,
+  "authoritativeRuntime": [
+    "film.js",
+    "narrative.js",
+    "atlas.js"
+  ],
+  "chapters": [
+    {
+      "id": 1,
+      "title": "LAST LIGHT",
+      "start": 0,
+      "end": 2.31
+    },
+    {
+      "id": 2,
+      "title": "OGIVAL",
+      "start": 2.31,
+      "end": 9.23
+    },
+    {
+      "id": 3,
+      "title": "EASTBOUND",
+      "start": 9.23,
+      "end": 18.46
+    },
+    {
+      "id": 4,
+      "title": "THROUGH ONE",
+      "start": 18.46,
+      "end": 23.08
+    },
+    {
+      "id": 5,
+      "title": "FOUR OLYMPUS",
+      "start": 23.08,
+      "end": 36.92
+    },
+    {
+      "id": 6,
+      "title": "ABOVE THE BLUE",
+      "start": 36.92,
+      "end": 46.15
+    },
+    {
+      "id": 7,
+      "title": "CLOSING THE GAP",
+      "start": 46.15,
+      "end": 55.38
+    },
+    {
+      "id": 8,
+      "title": "ROUTE COUPLED",
+      "start": 55.38,
+      "end": 64.62
+    },
+    {
+      "id": 9,
+      "title": "A WINDOW OF TIME",
+      "start": 64.62,
+      "end": 73.85
+    },
+    {
+      "id": 10,
+      "title": "CHASE SHADOW",
+      "start": 73.85,
+      "end": 87.69
+    },
+    {
+      "id": 11,
+      "title": "THE WORLD MOVES",
+      "start": 87.69,
+      "end": 101.54
+    },
+    {
+      "id": 12,
+      "title": "SLOW / MOTION",
+      "start": 101.54,
+      "end": 110.77
+    },
+    {
+      "id": 13,
+      "title": "NIGHT SIDE",
+      "start": 110.77,
+      "end": 120
+    },
+    {
+      "id": 14,
+      "title": "TRIM FOR TWO",
+      "start": 120,
+      "end": 131.54
+    },
+    {
+      "id": 15,
+      "title": "UNFOLD",
+      "start": 131.54,
+      "end": 143.08
+    },
+    {
+      "id": 16,
+      "title": "CATCH THE SUN",
+      "start": 143.08,
+      "end": 156.92
+    },
+    {
+      "id": 17,
+      "title": "RELATIVE STILLNESS",
+      "start": 156.92,
+      "end": 166.15
+    },
+    {
+      "id": 18,
+      "title": "LET IT DRIFT",
+      "start": 166.15,
+      "end": 175.38
+    },
+    {
+      "id": 19,
+      "title": "AFTERGLOW",
+      "start": 175.38,
+      "end": 184.62
+    },
+    {
+      "id": 20,
+      "title": "CONCORDE",
+      "start": 184.62,
+      "end": 186.97718820861678
+    }
+  ],
+  "inserts": [
+    {
+      "a": 12.8,
+      "b": 18.2,
+      "id": "dossier",
+      "phase": "BEFORE / PREPARATION",
+      "title": "FROM PROJECT FILE TO FLIGHT",
+      "source": "LESURF / PROJECT ARCHIVE \u00b7 EDITORIAL SUMMARY",
+      "box": [
+        80,
+        700,
+        1070,
+        248
+      ],
+      "fade": 1.3
+    },
+    {
+      "a": 40.3,
+      "b": 45.8,
+      "id": "fbw",
+      "phase": "BEFORE / ENGINEERING",
+      "title": "ANALOGUE FLY-BY-WIRE",
+      "source": "ICAS 2006 \u00a71.1 \u00b7 SIMPLIFIED, NOT COMPLETE REDUNDANCY",
+      "box": [
+        1060,
+        110,
+        760,
+        248
+      ],
+      "fade": 1.25
+    },
+    {
+      "a": 67.2,
+      "b": 74,
+      "id": "optics",
+      "phase": "DURING / OBSERVATION",
+      "title": "ABOVE THE CLOUDS",
+      "source": "LOS ALAMOS, 1973 \u00b7 OPTICAL SCHEMATIC",
+      "box": [
+        75,
+        390,
+        545,
+        348
+      ],
+      "fade": 2.4
+    },
+    {
+      "a": 104.1,
+      "b": 108.75,
+      "id": "spectrum",
+      "phase": "DURING / OBSERVATION",
+      "title": "READING THE CORONA",
+      "source": "LOS ALAMOS, 1973 \u00b7 Fe XIV",
+      "box": [
+        1065,
+        90,
+        770,
+        305
+      ],
+      "fade": 1.1
+    },
+    {
+      "a": 159.6,
+      "b": 167,
+      "id": "results",
+      "phase": "AFTER / RESULTS",
+      "title": "A LONGER OBSERVING WINDOW",
+      "source": "NATURE 246, 72\u201374 (1973) / NASA",
+      "box": [
+        80,
+        125,
+        1025,
+        280
+      ],
+      "fade": 1.5
+    },
+    {
+      "a": 178,
+      "b": 184.35,
+      "id": "archive",
+      "phase": "AFTER / THE RECORD",
+      "title": "FLIGHT \u2192 RECORD \u2192 RESEARCH",
+      "source": "LESURF / QMC ARCHIVE \u00b7 EDITORIAL SUMMARY",
+      "box": [
+        1060,
+        110,
+        760,
+        300
+      ],
+      "fade": 2
+    }
+  ],
+  "groundCycles": [
+    {
+      "in0": 84.2,
+      "in1": 84.82,
+      "out0": 100.37,
+      "out1": 101.05,
+      "title": "01 / INTERCEPT",
+      "detail": "GANDO > MAURITANIA > FORT-LAMY",
+      "focus": [
+        [
+          -18,
+          25
+        ],
+        [
+          -1,
+          20.5
+        ]
+      ],
+      "zoom": [
+        930,
+        1460,
+        1320
+      ]
+    },
+    {
+      "in0": 109.0322,
+      "in1": 109.6522,
+      "out0": 120.8,
+      "out1": 123,
+      "title": "02 / SHADOW TRACK",
+      "detail": "30 JUN 1973 / NASA GROUND-SHADOW TABLE",
+      "focus": [
+        [
+          -4,
+          24
+        ],
+        [
+          12,
+          19.5
+        ]
+      ],
+      "zoom": [
+        1000,
+        1700,
+        1460
+      ]
+    },
+    {
+      "in0": 145.4,
+      "in1": 146.02,
+      "out0": 156.02,
+      "out1": 156.7,
+      "title": "03 / TIME GAIN",
+      "detail": "74 MIN ABOARD / GROUND MAX 7m 03.5s",
+      "focus": [
+        [
+          3,
+          21.5
+        ],
+        [
+          21,
+          15.5
+        ]
+      ],
+      "zoom": [
+        1000,
+        1550,
+        1260
+      ]
+    }
+  ],
+  "kickTimes": [
+    131.541,
+    132.6884,
+    133.8458,
+    135.0032,
+    136.1506,
+    137.3079,
+    138.4653,
+    139.6127,
+    140.7701,
+    141.9175,
+    143.0748
+  ],
+  "clapTimes": [
+    132.1098,
+    133.2671,
+    134.4245,
+    135.5719,
+    136.7293,
+    137.8866,
+    139.034,
+    140.1914,
+    141.3388,
+    142.4961
+  ],
+  "musicRegions": [
+    {
+      "start": 0,
+      "end": 23.08,
+      "motion": "recognition and measured build"
+    },
+    {
+      "start": 23.08,
+      "end": 55.384,
+      "motion": "sustained pursuit; density rises, use camera moves as phrases not every beat"
+    },
+    {
+      "start": 55.384,
+      "end": 73.842,
+      "motion": "first rest; gentle window/parallax motion"
+    },
+    {
+      "start": 73.842,
+      "end": 110.84,
+      "motion": "second pursuit, high contrast between locked aircraft and moving world"
+    },
+    {
+      "start": 110.84,
+      "end": 129.275,
+      "motion": "rebuild from reduced energy; progressively narrow viewpoint"
+    },
+    {
+      "start": 129.275,
+      "end": 131.541,
+      "motion": "pre-climax hold/contraction"
+    },
+    {
+      "start": 131.541,
+      "end": 166.152,
+      "motion": "full release, sustained high energy after reveal"
+    },
+    {
+      "start": 166.152,
+      "end": 168.465,
+      "motion": "deceleration bridge, music remains high energy"
+    },
+    {
+      "start": 168.465,
+      "end": 186.97718820861678,
+      "motion": "quiet drift and gradual finish"
+    }
+  ]
+}

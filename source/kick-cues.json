@@ -1,0 +1,43 @@
+{
+  "mainKickTimes": [
+    131.541,
+    132.6884,
+    133.8458,
+    135.0032,
+    136.1506,
+    137.3079,
+    138.4653,
+    139.6127,
+    140.7701,
+    141.9175,
+    143.0748
+  ],
+  "clapBackbeatTimes": [
+    132.1098,
+    133.2671,
+    134.4245,
+    135.5719,
+    136.7293,
+    137.8866,
+    139.034,
+    140.1914,
+    141.3388,
+    142.4961
+  ],
+  "secondaryLowTransient": 139.902,
+  "selection": "Low-frequency dominant alternating beats; the backbeats also contain low-frequency energy, so these are not isolated instrument stems. Main choreography follows the low-dominant kicks, not clap-dominant backbeats.",
+  "analysis": "production/drum-band-analysis.json",
+  "actions": [
+    "release silhouette",
+    "bank and wing contour",
+    "leading-edge light travel",
+    "counter-bank and pressure arc",
+    "nacelle isolation",
+    "four-flow impulse",
+    "wake expansion",
+    "return across shadow",
+    "recompose",
+    "settle",
+    "carry into next phrase"
+  ]
+}
